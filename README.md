@@ -1,5 +1,3 @@
-# Notepad++
-
 ### Various bits and pieces for Notepad++
 
 TwoDark.xml - A theme based on OneDark syntax theme from the Atom editor.
