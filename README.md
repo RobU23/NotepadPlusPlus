@@ -1,6 +1,6 @@
 ### Various bits and pieces for Notepad++
 
-TwoDark.xml - A theme based on OneDark syntax theme from the Atom editor.  This theme is designed to use a font from Mozilla called Fira Mono which you can download from [Google Fonts](https://fonts.google.com/specimen/Fira+Mono)
+TwoDark.xml - A theme based on OneDark syntax theme from the Atom editor.  This theme is designed to use a font from Mozilla called Fira Mono which you can download from [Google Fonts](https://fonts.google.com/specimen/Fira+Mono) - [(screenshot)](https://github.com/RobU23/NotepadPlusPlus/wiki/TwoDark-theme-for-NotepadPlusPlus)
 
 functionList.xml - enable the function list to display Lua functions and tables (not nested)
 
